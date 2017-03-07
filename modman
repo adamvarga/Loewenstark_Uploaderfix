@@ -1,0 +1,3 @@
+src/app/etc/modules/Loewenstark_Uploaderfix.xml                 app/etc/modules/Loewenstark_Uploaderfix.xml
+src/app/code/community/Loewenstark/Uploaderfix                  app/code/community/Loewenstark/Uploaderfix   
+src/app/design/adminhtml/default/default/layout/uploaderfix.xml app/design/adminhtml/default/default/layout/uploaderfix.xml

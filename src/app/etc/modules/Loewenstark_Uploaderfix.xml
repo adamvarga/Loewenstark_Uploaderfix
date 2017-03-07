@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Loewenstark_Uploaderfix>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Loewenstark_Uploaderfix>
+    </modules>
+</config>

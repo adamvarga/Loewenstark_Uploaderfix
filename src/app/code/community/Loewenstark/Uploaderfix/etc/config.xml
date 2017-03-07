@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<config>
+
+    <modules>
+        <Loewenstark_Uploaderfix>
+            <version>0.0.1</version>
+        </Loewenstark_Uploaderfix>
+    </modules>
+
+    <global>
+        <helpers>
+            <uploaderfix>
+                <class>Loewenstark_Uploaderfix_Helper</class>
+            </uploaderfix>
+        </helpers>
+
+        <blocks>
+            <uploaderfix>
+                <class>Loewenstark_Uploaderfix_Block</class>
+            </uploaderfix>
+        </blocks>
+    </global>
+
+    <adminhtml>
+        <layout>
+            <updates>
+                <uploaderfix>
+                    <file>uploaderfix.xml</file>
+                </uploaderfix>
+            </updates>
+        </layout>
+    </adminhtml>
+</config>
